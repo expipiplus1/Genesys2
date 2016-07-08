@@ -818,7 +818,7 @@
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
-      <xilinx:xilinxVersion>2015.3</xilinx:xilinxVersion>
+      <xilinx:xilinxVersion>2015.4</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="10b64b49"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="5b598c96"/>
       <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="33d4ad78"/>

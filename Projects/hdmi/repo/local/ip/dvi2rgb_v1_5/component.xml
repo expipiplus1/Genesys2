@@ -1024,7 +1024,7 @@
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
-      <xilinx:xilinxVersion>2015.3</xilinx:xilinxVersion>
+      <xilinx:xilinxVersion>2015.4</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="f6c1e85b"/>
       <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="e4361f83"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="206a6650"/>

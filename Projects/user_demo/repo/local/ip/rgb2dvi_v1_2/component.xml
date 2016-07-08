@@ -670,7 +670,7 @@
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
-      <xilinx:xilinxVersion>2015.3</xilinx:xilinxVersion>
+      <xilinx:xilinxVersion>2015.4</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="7a329503"/>
       <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="8775de44"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="16681a3c"/>
